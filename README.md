@@ -16,8 +16,9 @@ This repository is made as part of Assignment 5 of the course. We will be creati
 * [Python](https://www.python.org/)
 * Python libraries
 
-# Conclusion
 
 
+---
+More changes can be made to the file and changes will be pushed via GitBash.
 
 
