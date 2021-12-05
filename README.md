@@ -11,8 +11,8 @@ This repository is made as part of Assignment 5 of the course. We will be creati
 
 ## Tools used
 
-* [Jupyter Notebook] (https://jupyter.org)
-* [Python] (https://www.python.org/)
+* [Jupyter Notebook](https://jupyter.org)
+* [Python](https://www.python.org/)
 * Python libraries
 
 
