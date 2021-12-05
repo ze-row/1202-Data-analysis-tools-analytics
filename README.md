@@ -1,5 +1,5 @@
 # Assignment 5 Data Archive Activity - 1202
-This repository is made as part of Assignment 5 of the course. We will be creating a git repository an uploading/pushing file to it and making README.md
+This repository is made as part of Assignment 5 of the course. We will be creating a git repository an uploading/pushing jupyter notebook file to it and making README.md
 
 ## Features
 
